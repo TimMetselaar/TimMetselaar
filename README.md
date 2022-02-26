@@ -1,5 +1,5 @@
-## <h1 align="center">Hi 👋, welcome to my Github!</h1>
-<h3 align="center">I'm Tim I have a deep interest in cybersecurity, machine learning and data-analysis.</h3>
+<h1 align="center">Hi 👋, welcome to my Github!</h1>
+<h5 align="center">I'm Tim. On my Github profile you will find small projects to broaden my theoretical and practical knowlegde about cybersecurity, machine learning and data-analysis.</h3>
 
 <!--
 **TimMetselaar/TimMetselaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
