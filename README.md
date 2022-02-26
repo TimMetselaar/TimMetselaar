@@ -5,3 +5,4 @@
 <li><a href="https://github.com/TimMetselaar/Autonomous-Vehicle-Simulation">Autonomous Vehicle Simulation</a></li>
 <li><a href="https://github.com/TimMetselaar/Basic-Encryption-Algorithms">RSA Algorithm</a></li>
 
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=TimMetselaar)
