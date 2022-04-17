@@ -7,7 +7,7 @@
 <h3>:clipboard: In progress:</h3>
 <li><a href="https://github.com/TimMetselaar/Matrix-Multiplication-And-Inverse">Matrix Multiplication and Inverse</a></li>
 <li><a href="https://github.com/TimMetselaar/Basic-Neural-Network-Numpy">Basic Neural Network with Numpy</a></li>
-<li><a href="https://github.com/TimMetselaar/Matrix-Multiplication-And-Inverse">Basic Neural Network written only in Python</a></li>
+<li><a href="https://github.com/TimMetselaar/Basic-Neural-Network-Python">Basic Neural Network written only in Python</a></li>
 
 <p>&nbsp;</p>
 
