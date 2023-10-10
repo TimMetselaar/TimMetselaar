@@ -3,13 +3,13 @@
 
 <h3>:clipboard: Projects:</h3>
 <li><a href="https://github.com/TimMetselaar/Basic-Encryption-Algorithms">RSA Algorithm</a></li>
-
-<h3>:clipboard: In progress:</h3>
 <li><a href="https://github.com/TimMetselaar/Matrix-Multiplication-And-Inverse">Matrix Multiplication and Inverse</a></li>
 <li><a href="https://github.com/TimMetselaar/Basic-Neural-Network-Numpy">Basic Neural Network with Numpy</a></li>
 <li><a href="https://github.com/TimMetselaar/Basic-Neural-Network-Python">Basic Neural Network written only in Python</a></li>
 
-<p>&nbsp;</p>
+<h3>:clipboard: In progress:</h3>
+<li><a>...</a></li>
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=TimMetselaar)
+
+<p>&nbsp;</p>
 
