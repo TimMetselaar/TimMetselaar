@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, welcome to my Github!</h1>
-<p align="center">I'm Tim. On my Github profile you will find small projects that I have completed or still working on in the field of cybersecurity, artificial intelligence and business analytics. The projects are to broaden my theoretical and practical knowledge in my field of interests.</p>
+<p align="center">I'm Tim, and here you'll discover a collection of small projects I've either completed or am currently working on in the exciting realms of cybersecurity, artificial intelligence, and business analytics. These projects serve as a platform to expand my theoretical and practical knowledge in my areas of interest. </p>
 
 <h3>:clipboard: Projects:</h3>
 <li><a href="https://github.com/TimMetselaar/Basic-Encryption-Algorithms">RSA Algorithm</a></li>
